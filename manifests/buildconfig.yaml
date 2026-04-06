@@ -12,7 +12,7 @@ spec:
     git:
       uri: https://github.com/fpetk-rolling-demo/paude-se-2026040601
       ref: main
-    contextDir: build
+    contextDir: agent
   strategy:
     type: Docker
     dockerStrategy:
